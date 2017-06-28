@@ -1,0 +1,28 @@
+{
+  "name": "articles-app",
+  "version": "1.0.0",
+  "description": "This allows you to manage articles",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmevawala/node-express-complete-app.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "Pug",
+    "REST"
+  ],
+  "author": "Chitrang Mevawala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmevawala/node-express-complete-app/issues"
+  },
+  "homepage": "https://github.com/cmevawala/node-express-complete-app#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
